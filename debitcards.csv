@@ -1,0 +1,4 @@
+AccountNumber,CardNumber,ExpirationDate,CVV,Status,PIN,IssueDate,CardType,CardHolderName
+5739058599,1635772053352019,12-2030,345,active,9067,2015-12-13,RuPay Debit Card,gayu
+4303048926,9580528707243298,12-2045,123,deactive,4798,2014-05-13,RuPay Debit Card,priya5739058599
+5739058599,1635772053352019,12-2040,1234,active,9067,2024-06-30,RuPay Debit Card,gayathri

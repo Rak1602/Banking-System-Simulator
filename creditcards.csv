@@ -1,0 +1,3 @@
+AccountNumber,CardNumber,ExpirationDate,CVV,Status,PIN,IssueDate,CardType,CardHolderName
+5739058599,1635772053352019,12-2045,456,deactive,9067,2015-12-05,Premium Credit Card,gayu
+4303048926,9580528707243298,06-2040,451,active,4798,2015-10-02,CashBack Credit Card,priya
